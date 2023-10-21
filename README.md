@@ -16,39 +16,26 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🤯 Confusion is part of Programming yea! 🤯</h2></summary>
-  </ul>
-</div>
+<!--- stats (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-<div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-    <br/>
-      <summary><h3>Languages</h3></summary>
-      <p align="center">
-        <a href="https://github.com/chayunfdl">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayunfdl&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="chayunfdl :: overall Top Langs " />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/chayunfdl">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayunfdl&theme=gruvbox&layout=compact&hide_border=true"
-          alt="chayunfdl :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayunfdl&theme=gruvbox&layout=compact&hide_border=true"
-          alt="chayunfdl :: Top Langs by commit" />
-        </a>
-      </p>
-      <summary><h3>stasistic</h3></summary>
-      <p align="center">
-        <a href="https://github.com/chayunfdl">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chayunfdl&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayunfdl&theme=gruvbox&hide_border=true" />
-        </a>
-      </p>
-      <br>
-  </samp>
-</div>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+</p>        
+<!--- stats (end) -->
