@@ -27,7 +27,6 @@
   <samp>
     <h2 align="center"> Github stats </h2>
     <br/>
-    <details>
       <summary><h3>Languages</h3></summary>
       <p align="center">
         <a href="https://github.com/chayunfdl">
@@ -43,8 +42,6 @@
           alt="chayunfdl :: Top Langs by commit" />
         </a>
       </p>
-    </details>
-    <details>
       <summary><h3>stasistic</h3></summary>
       <p align="center">
         <a href="https://github.com/chayunfdl">
@@ -53,6 +50,5 @@
         </a>
       </p>
       <br>
-    </details>
   </samp>
 </div>
