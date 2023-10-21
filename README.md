@@ -26,32 +26,33 @@
 <div>
   <samp>
     <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
+    <br/>
+    <details>
+      <summary><h3>Languages</h3></summary>
+      <p align="center">
         <a href="https://github.com/chayunfdl">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayunfdl&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="chayunfdl :: overall Top Langs " /></a>
+          alt="chayunfdl :: overall Top Langs " />
+        </a>
       </p>
-        <p align="center">
-          <a href="https://github.com/chayunfdl">
+      <p align="center">
+        <a href="https://github.com/chayunfdl">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayunfdl&theme=gruvbox&layout=compact&hide_border=true"
           alt="chayunfdl :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayunfdl&theme=gruvbox&layout=compact&hide_border=true"
           alt="chayunfdl :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/chayunfdl">
+        </a>
+      </p>
+    </details>
+    <details>
+      <summary><h3>stasistic</h3></summary>
+      <p align="center">
+        <a href="https://github.com/chayunfdl">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chayunfdl&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayunfdl&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+        </a>
+      </p>
+      <br>
+    </details>
+  </samp>
+</div>
